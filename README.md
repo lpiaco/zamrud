@@ -1,2 +1,1 @@
-# zamrud
 LPIA Dukuh Zamrud
